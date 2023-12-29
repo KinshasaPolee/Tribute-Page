@@ -23,6 +23,6 @@ Your #image should use max-width and height properties to resize responsively, r
 Your img element should be centered within its parent element
 
 # Authors
-- [@KinshasaPolee](https://github.com/KinshasaPolee/BOM)
+- [@KinshasaPolee](https://github.com/KinshasaPolee)
 - [@octokatherine](https://www.github.com/octokatherine)
 - [@freecodecamp](https://www.freecodecamp.org/certification/Kpolee/responsive-web-design)
